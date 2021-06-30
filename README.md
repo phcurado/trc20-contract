@@ -11,7 +11,7 @@ Contract example to deploy at Tronscan Shasta network: https://shasta.tronscan.o
 - Contract address in Hex: `41ef0b153b75d78062d9b070b5186ff1339dead851`
 - Contract link: https://shasta.tronscan.org/#/contract/TXm9mxnEgwaD67jfMe3TTk2Mut3e69E9KN/code
 
-## Useful links
+## Useful Links
 
 - Official site: https://tron.network/
 - API list: https://developers.tron.network/reference
